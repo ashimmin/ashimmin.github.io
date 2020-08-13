@@ -1,0 +1,46 @@
+// =============================================================================
+// Fonts
+// =============================================================================
+
+@charset "UTF-8";
+
+// Roboto Mono
+// =============================================================================
+
+@font-face {
+  font-family: 'Roboto Mono Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: asset_url('roboto-mono/RobotoMono-Regular.ttf');
+  src:
+  asset_url('roboto-mono/RobotoMono') format('embedded-opentype'),
+  local('RobotoMono-Regular'),
+  asset_url('roboto-mono/RobotoMono-Bold.ttf') format('truetype'),
+  asset_url('roboto-mono/RobotoMono-BoldItalic.ttf') format('truetype'),
+  asset_url('roboto-mono/RobotoMono-Italic.ttf') format('truetype'),
+  asset_url('roboto-mono/RobotoMono-Light.ttf') format('truetype'),
+  asset_url('roboto-mono/RobotoMono-LightItalic.ttf') format('truetype'),
+  asset_url('roboto-mono/RobotoMonoMedium.ttf') format('truetype'),
+  asset_url('roboto-mono/RobotoMonoMediumItalic.ttf') format('truetype'),
+  asset_url('roboto-mono/RobotoMonoThin.ttf') format('truetype'),
+  asset_url('roboto-mono/RobotoMonoThinItalic.ttf') format('truetype');
+
+
+}
+
+// Yantramanav
+// =============================================================================
+
+@font-face {
+  font-family: 'Yantramanav';
+  font-style: normal;
+  font-weight: 300;
+  src: asset_url('yantramanav/Yantramanav-regular.ttf');
+  src:
+  asset_url('yantramanav/Yantramanav-Black.ttf') format('truetype'),
+  asset_url('yantramanav/Yantramanav-Bold.ttf') format('truetype'),
+  asset_url('yantramanav/Yantramanav-Light.ttf') format('truetype'),
+  asset_url('yantramanav/Yantramanav-Medium.ttf') format('truetype'),
+  asset_url('yantramanav/Yantramanav-Regular.ttf') format('truetype'),
+  asset_url('yantramanav/Yantramanav-Thin.ttf') format('truetype');
+}
