@@ -8,7 +8,7 @@ tags: [ux, visual, 3d-modeling virtual-reality motion-design physical-prototypin
 ---
 <br>
 
-Many of the projects I worked on during my internship are still under NDA. During my time at fuseproject, I was able to work on the first interactions for a home fitness workout machine, as well as the entire workout experience— from the technology embedded in the machine, all the way to the digital interfaces and its surrounding touchpoints.
+During my time at fuseproject, I was able to work on the first interactions for the [FORME Life](https://formelife.com/) smart home fitness workout machine, as well as the entire workout experience— from the technology embedded in the machine, all the way to the digital interfaces and its surrounding touchpoints.
 
 <br>
 
