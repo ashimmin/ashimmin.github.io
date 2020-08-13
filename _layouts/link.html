@@ -1,0 +1,17 @@
+---
+layout: default
+---
+      <!-- <div class="col-1">
+        {% for links in site.links %}
+        <h1>{{ forloop.index }}</h1>
+        {% endfor %}
+      </div> -->
+      <div class="author-spacer"></div>
+      <div class="author-spacer"></div>
+        {% for links in site.links %}
+        <a href="{{ links.url | prepend: site.baseurl }}">
+          <h3>{{ links.title }}</h3>
+          {% include linebreak.html %}
+        </a>
+            <div class="author-spacer"></div>
+        {% endfor %}
