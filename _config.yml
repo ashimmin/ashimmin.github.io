@@ -63,3 +63,5 @@ plugins:
   - jemoji
 paginate_path: /posts/page/:num/
 permalink: /:slug
+pagination:
+  enabled: true
