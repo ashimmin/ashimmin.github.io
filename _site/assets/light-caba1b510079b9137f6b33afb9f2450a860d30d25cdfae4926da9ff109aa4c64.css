@@ -447,6 +447,9 @@ h1 {
   letter-spacing: -.03em;
   color: #333341; }
 
+@font-face {
+  font-family: 'Yantramanav-Black', sans-serif;
+  src: url("assets/fonts/yantramanav/Yantramanav-Black.ttf"); }
 h2 {
   font-size: 24px;
   font-weight: 400; }
@@ -481,7 +484,6 @@ h6 {
 a {
   color: #55556c;
   text-decoration: none;
-  -webkit-transition: color 0.2s linear;
   transition: color 0.2s linear; }
   a:hover, a:active {
     color: #333341;
@@ -491,7 +493,6 @@ a {
     outline: none; }
 
 svg {
-  -webkit-transition: fill 0.2s linear;
   transition: fill 0.2s linear; }
 
 ul,
@@ -554,20 +555,17 @@ img {
   margin-bottom: 4%;
   margin-top: 18%;
   box-shadow: 0 1px 20px -8px;
-  -webkit-transition: .35s;
   transition: .35s; }
 
 .imageFollow {
   position: fixed;
   display: none;
   z-index: -1;
-  -webkit-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
   pointer-events: none; }
 
 .cursor-img a {
-  -webkit-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
   padding-top: 20px;
   cursor: url("data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='36px' height='36px' viewBox='0 0 36 36' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3C!-- Generator: Sketch 60 (88103) - https://sketch.com --%3E%3Ctitle%3EGroup 3%3C/title%3E%3Cdesc%3ECreated with Sketch.%3C/desc%3E%3Cg id='Page-1' stroke='none' stroke-width='1' fill='none' fill-rule='evenodd'%3E%3Cg id='Group-3' fill='%23FFD25A'%3E%3Cpath d='M16.1901445,-4.17400078 L20.0280653,-4.1947463 C20.5803419,-4.19773158 21.0304707,-3.75244292 21.033456,-3.20016623 C21.0334755,-3.19656271 21.0334755,-3.19295911 21.033456,-3.18935558 L20.8044356,39.1794207 C20.8014731,39.7274803 20.3579151,40.1710383 19.8098555,40.1740008 L15.9719347,40.1947463 C15.4196581,40.1977316 14.9695293,39.7524429 14.966544,39.2001662 C14.9665245,39.1965627 14.9665245,39.1929591 14.966544,39.1893556 L15.1955644,-3.17942072 C15.1985269,-3.72748033 15.6420849,-4.1710383 16.1901445,-4.17400078 Z' id='Rectangle' transform='translate(18.000000, 18.000000) rotate(-45.000000) translate(-18.000000, -18.000000) '%3E%3C/path%3E%3Cpath d='M15.9719347,-4.1947463 L19.8098555,-4.17400078 C20.3579151,-4.1710383 20.8014731,-3.72748033 20.8044356,-3.17942072 L21.033456,39.1893556 C21.0364413,39.7416323 20.5911526,40.191761 20.0388759,40.1947463 C20.0352724,40.1947658 20.0316688,40.1947658 20.0280653,40.1947463 L16.1901445,40.1740008 C15.6420849,40.1710383 15.1985269,39.7274803 15.1955644,39.1794207 L14.966544,-3.18935558 C14.9635587,-3.74163226 15.4088474,-4.19176102 15.9611241,-4.1947463 C15.9647276,-4.19476578 15.9683312,-4.19476578 15.9719347,-4.1947463 Z' id='Rectangle-Copy-11' transform='translate(18.000000, 18.000000) rotate(-135.000000) translate(-18.000000, -18.000000) '%3E%3C/path%3E%3C/g%3E%3C/g%3E%3C/svg%3E"), auto; }
 
@@ -581,8 +579,7 @@ img {
   .h-scene .home_scene_element {
     -webkit-animation-duration: 0.5s;
             animation-duration: 0.5s;
-    -webkit-transition-timing-function: ease-in;
-            transition-timing-function: ease-in;
+    transition-timing-function: ease-in;
     -webkit-animation-fill-mode: both;
             animation-fill-mode: both; }
   .h-scene .home_scene_element--fadein {
@@ -590,25 +587,20 @@ img {
             animation-name: fadeUp; }
 @-webkit-keyframes fadeUp {
   0% {
-    -webkit-transform: translateY(-100%);
-            transform: translateY(-100%); }
+    transform: translateY(-100%); }
   100% {
-    -webkit-transform: translateY(0);
-            transform: translateY(0); } }
+    transform: translateY(0); } }
 @keyframes fadeUp {
   0% {
-    -webkit-transform: translateY(-100%);
-            transform: translateY(-100%); }
+    transform: translateY(-100%); }
   100% {
-    -webkit-transform: translateY(0);
-            transform: translateY(0); } }
+    transform: translateY(0); } }
 .m-scene {
   /** Basic styles for an animated element */ }
   .m-scene .scene_element {
     -webkit-animation-duration: 0.5s;
             animation-duration: 0.5s;
-    -webkit-transition-timing-function: ease-in;
-            transition-timing-function: ease-in;
+    transition-timing-function: ease-in;
     -webkit-animation-fill-mode: both;
             animation-fill-mode: both; }
   .m-scene .scene_element--fadein {
@@ -780,7 +772,6 @@ img {
         color: #a3a3b7;
         text-decoration: none;
         text-transform: uppercase;
-        -webkit-transition: color 0.2s linear;
         transition: color 0.2s linear; }
         .article-list li.article-pagination a svg {
           width: 16px;
@@ -808,7 +799,6 @@ img {
       margin: -2px 8px 0 8px;
       fill: #333341;
       opacity: 0;
-      -webkit-transition: opacity 0.2s linear;
       transition: opacity 0.2s linear; }
   .article-list-item a:hover h5 svg {
     opacity: 1; }
@@ -905,7 +895,6 @@ img {
     vertical-align: middle; }
     .article-share a svg {
       vertical-align: middle;
-      -webkit-transition: fill 0.2s linear;
       transition: fill 0.2s linear;
       fill: #ceced8;
       width: 20px; }
@@ -1233,7 +1222,6 @@ img {
 .appeared {
   visibility: visible;
   opacity: 1;
-  -webkit-transition: opacity 0.5s ease-in-out;
   transition: opacity 0.5s ease-in-out; }
 
 .tags-page-header {
