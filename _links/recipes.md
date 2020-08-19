@@ -44,6 +44,8 @@ excerpt: ""
 {% include linebreak.html %}
 [Caramelized Shallot Pasta](https://cooking.nytimes.com/recipes/1020830-caramelized-shallot-pasta) by Alison Roman of NYT Cooking
 <br>
+[Power Butter](https://www.bonappetit.com/recipe/power-butter) by Anna Stockwell of BA
+<br>
 <br>
 <br>
 <br>
@@ -62,6 +64,8 @@ excerpt: ""
 [Ginger Milk Pudding](https://www.chinasichuanfood.com/ginger-milk-pudding/) Introduced to me by Weiwei
 <br>
 [Brown Butter and Toffee Chocolate Chip Cookies](https://www.bonappetit.com/recipe/brown-butter-and-toffee-chocolate-chip-cookies) by Bon Appetit
+<br>
+[Peach and Sesame Crumble](https://www.bonappetit.com/recipe/peach-and-sesame-crumble) by Sarah Jampel
 <br>
 <br>
 <br>
