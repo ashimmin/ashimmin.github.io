@@ -35,7 +35,7 @@ During the initial research phase of this project, I wrote an essay about linked
 <br>
 
 <video width="100%" autoplay loop>
-  <source src="thesis/ytvids.mp4" type="video/mp4" />
+  <source src="images/thesis/ytvids.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
@@ -44,7 +44,7 @@ We’ve all been entertained by these videos; super clean, super simple, super *
 
 But that’s okay, because if i wanted to learn about African animals except elephants I will find exactly what I need—
 <video width="100%" autoplay loop>
-  <source src="thesis/elephants.mp4" type="video/mp4" />
+  <source src="images/thesis/elephants.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
@@ -109,7 +109,7 @@ where it gives you a [suggested clip](http://lmgtfy.com/?q=how+to+whistle). Goog
 Another is [IBM Watson’s TED website](http://watson.ted.com/). Here, you can ask IBM’s Watson a question or topic and it will search every TED Talk for videos that it thinks are related to your inquiry. Just like the Google search, it clips the part of the video that is relevant to you, and starts the video from there, as you can see from the teal bar below the video. But this interface as well as Google’s suggested clip still just surfaces content for consumption, and neglects the other essential parts of a learning environment that people need.
 
 <video width="100%" autoplay loop>
-  <source src="thesis/2by2.mp4" type="video/mp4">
+  <source src="images/thesis/2by2.mp4" type="video/mp4">
 </video>
 
 digging deeper, I looked to different types of learning platforms to see how they dealt with this problem. It all varied based on what information you are looking for, and how deeply you want to understand it.
@@ -149,7 +149,7 @@ Meet Albert, an avid bitcoin purchaser, he knows a lot about the basics, and he�
 He’s really frustrated with his current attempts to learn about it on youtube and reddit, as he keeps getting video suggestions that steer him away from his topic through exaggerated titles and ostentatious thumbnails, and the lack of quality discussion in the comments prevents Albert from really diving deep into his topic.
 
 <video width="100%" autoplay loop>
-  <source src="thesis/intro.mp4" type="video/mp4" />
+  <source src="images/thesis/intro.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
@@ -167,7 +167,7 @@ He’s really frustrated with his current attempts to learn about it on youtube 
 On Alcamy, he finds the topic he’s looking for, and see’s Unstable Currency is already a discussion category. He is able to skip the sections about bitcoin he already knows and can immediately access Unstable Currencies
 
 <video width="100%" autoplay loop>
-  <source src="thesis/3sections.mp4" type="video/mp4" />
+  <source src="images/thesis/3sections.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
@@ -182,7 +182,7 @@ And lastly, a place for discussion with communities interested in the same topic
 While watching the video, Albert has questions.
 
 <video width="100%" autoplay loop>
-  <source src="thesis/comments.mp4" type="video/mp4" />
+  <source src="images/thesis/comments.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
@@ -195,20 +195,20 @@ With the three part interface, Albert doesn’t have to keep scrolling between c
 So, like Jane, who knows nothing about bitcoin, she’s curious what all the buzz is about, and is looking to learn more. She’s found some great information watching TED talks, but is looking for a place to help her unscramble her thoughts.
 
 <video width="100%" autoplay loop>
-  <source src="thesis/janecomment.mp4" type="video/mp4" />
+  <source src="images/thesis/janecomment.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
 She starts from a beginner topic, and picks up the basics quickly. She’s can choose different ways to digest the content based on her preference. Jane jots down some notes and drags her comments to the notes section. Now, she’s interested in a certain part of the video, and grabs the scrub bar to refine the discussion a bit more.
 
 <video width="100%" autoplay loop>
-  <source src="thesis/msdetail.mp4" type="video/mp4">
+  <source src="images/thesis/msdetail.mp4" type="video/mp4">
 </video>
 
 The media scrubber, located directly on the video timeline allows Jane the ability to look at discussion and commentary from both the macro and micro level.
 
 <video width="100%" autoplay loop>
-  <source src="thesis/mscontext.mp4" type="video/mp4" />
+  <source src="images/thesis/mscontext.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
@@ -217,7 +217,7 @@ So when Jane alters the scrubbers size and location, it filters the comments to 
 
 
 <video width="100%" autoplay loop>
-  <source src="thesis/scrubberuse.mp4" type="video/mp4" />
+  <source src="images/thesis/scrubberuse.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
