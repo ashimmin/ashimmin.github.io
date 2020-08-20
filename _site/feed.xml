@@ -4,70 +4,70 @@
     <title></title>
     <description></description>
     <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4000/ashimmin.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Reduct.Video</title>
         <description>Reduct.Video is a video editing &amp; transcription startup in San Francisco. With Reduct, editing video is as easy as writing a text document. Highlight, cut, edit text and watch as your video automatically does the same.</description>
         <pubDate>Tue, 21 Jan 2020 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/reduct</link>
-        <guid isPermaLink="true">http://localhost:4000/reduct</guid>
+        <link>http://localhost:4000/ashimmin.github.io/reduct</link>
+        <guid isPermaLink="true">http://localhost:4000/ashimmin.github.io/reduct</guid>
       </item>
     
       <item>
         <title>Cisco Systems</title>
         <description>Cisco's collaboration design team are tackling the future of business-place communication. Telepresence, conferencing, and audio design go into making this suite of tools the best experience for enterprise collaboration and making the ease of sharing ideas possible.</description>
         <pubDate>Mon, 10 Jun 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/cisco</link>
-        <guid isPermaLink="true">http://localhost:4000/cisco</guid>
+        <link>http://localhost:4000/ashimmin.github.io/cisco</link>
+        <guid isPermaLink="true">http://localhost:4000/ashimmin.github.io/cisco</guid>
       </item>
     
       <item>
         <title>Undergrad Thesis: Interfaces For Online Learning</title>
         <description></description>
         <pubDate>Wed, 06 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/thesis-process</link>
-        <guid isPermaLink="true">http://localhost:4000/thesis-process</guid>
+        <link>http://localhost:4000/ashimmin.github.io/thesis-process</link>
+        <guid isPermaLink="true">http://localhost:4000/ashimmin.github.io/thesis-process</guid>
       </item>
     
       <item>
         <title>Blend</title>
         <description></description>
         <pubDate>Mon, 31 Dec 2018 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/blend</link>
-        <guid isPermaLink="true">http://localhost:4000/blend</guid>
+        <link>http://localhost:4000/ashimmin.github.io/blend</link>
+        <guid isPermaLink="true">http://localhost:4000/ashimmin.github.io/blend</guid>
       </item>
     
       <item>
         <title>Undergraduate Thesis</title>
         <description></description>
         <pubDate>Mon, 21 May 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/thesis</link>
-        <guid isPermaLink="true">http://localhost:4000/thesis</guid>
+        <link>http://localhost:4000/ashimmin.github.io/thesis</link>
+        <guid isPermaLink="true">http://localhost:4000/ashimmin.github.io/thesis</guid>
       </item>
     
       <item>
         <title>Interfaces For Online Learning</title>
         <description></description>
         <pubDate>Tue, 17 Oct 2017 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/literature-review-thesis</link>
-        <guid isPermaLink="true">http://localhost:4000/literature-review-thesis</guid>
+        <link>http://localhost:4000/ashimmin.github.io/literature-review-thesis</link>
+        <guid isPermaLink="true">http://localhost:4000/ashimmin.github.io/literature-review-thesis</guid>
       </item>
     
       <item>
         <title>fuseproject</title>
         <description></description>
         <pubDate>Wed, 10 May 2017 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/fuseproject</link>
-        <guid isPermaLink="true">http://localhost:4000/fuseproject</guid>
+        <link>http://localhost:4000/ashimmin.github.io/fuseproject</link>
+        <guid isPermaLink="true">http://localhost:4000/ashimmin.github.io/fuseproject</guid>
       </item>
     
       <item>
         <title>IxD Infographic</title>
         <description></description>
         <pubDate>Sun, 13 Dec 2015 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/ixdroadtrip</link>
-        <guid isPermaLink="true">http://localhost:4000/ixdroadtrip</guid>
+        <link>http://localhost:4000/ashimmin.github.io/ixdroadtrip</link>
+        <guid isPermaLink="true">http://localhost:4000/ashimmin.github.io/ixdroadtrip</guid>
       </item>
     
   </channel>
