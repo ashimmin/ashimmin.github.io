@@ -3,7 +3,7 @@
 blog_theme: light # Or use dark
 author: Andy Shimmin
 paginate: 4
-url: andyshimmin.com
+baseurl: ashimmin.github.io
 
 
 # Optional settings
