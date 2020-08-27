@@ -3,6 +3,7 @@
 blog_theme: light # Or use dark
 author: Andy Shimmin
 paginate: 4
+paginate_path: "/portfolio"
 url: andyshimmin.com
 
 # Optional settings
