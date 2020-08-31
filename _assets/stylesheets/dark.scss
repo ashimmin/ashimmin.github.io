@@ -2,10 +2,17 @@
 // Dark theme
 // =============================================================================
 
+.icon-theme-dark {
+display: inline;
+}
+.icon-theme-light {
+display: none;
+}
 // Variables
 // =============================================================================
 
 // Shades of gray
+
 
 $black: #000;
 $gray-darkest: #333341; //121111
