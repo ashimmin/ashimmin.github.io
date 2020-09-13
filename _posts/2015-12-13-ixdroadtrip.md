@@ -60,8 +60,8 @@ The most effective way to convey a complex subject is through a metaphor. Keepin
 <br>
 Creating a middle ground between interaction design and a simple explanation became the design challenge, and the next step was to find a metaphor that could empathize from both perspectives.
 
-![](ixdroadtrip/roadtrip_sketch1.png)|![](ixdroadtrip/roadtrip_sketch2.png)||
-![](ixdroadtrip/roadtrip_sketch3.png)|![](ixdroadtrip/roadtrip_sketch4.png)|
+![](images/ixdroadtrip/roadtrip_sketch1.png)|![](images/ixdroadtrip/roadtrip_sketch2.png)||
+![](images/ixdroadtrip/roadtrip_sketch3.png)|![](images/ixdroadtrip/roadtrip_sketch4.png)|
 
 My first metaphor attempt was of a cheeseburger. What parts of interaction design represented the bun? The patty? The stacked shape of the design was compelling, but the metaphor was flawed. Making a direct correlation between the designers skill set and the anatomy of a sandwich wasn't very helpful in getting an outside audience to understand an interaction designer's process.
 
