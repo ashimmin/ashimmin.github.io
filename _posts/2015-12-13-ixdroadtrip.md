@@ -3,8 +3,8 @@ layout: post
 title: "IxD Infographic"
 subtitle: "Interaction Design Road Trip"
 author: "Andy"
-excerpt:  Week-long project to make an infographic describing what interaction design is. Made in my Sophomore year of college.
-image: ixdroadtrip/roadtrip_poster.jpg
+excerpt:  Week-long project to make an infographic describing what interaction design is to non-interaction designers. Made during my Sophomore year of college.
+image: splash/roadtripsplash.png
 tags: [visual, datavis, illustration]
 ---
 

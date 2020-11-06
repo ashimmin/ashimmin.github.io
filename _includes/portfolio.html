@@ -2,6 +2,12 @@
   {% for post in paginator.posts %}
   <li class="article-list-item {% if site.scrollappear_enabled %}scrollappear{% endif %}">
     <a href="{{ post.url | relative_url }}" title="{{ post.title }}" class="hoverText">
+
+
+      <!-- -------turn off images by commenting this out below------- -->
+<img src="{{ site.baseurl }}/images/{{ post.image }}" style="width:100%; box-shadow: 0px 18px 34px 1px rgba(0, 0, 0, 0.08);">
+<br>
+  <!-- -------turn off images by commenting this out above------- -->
       <h5>
         {{ post.title }}
         {% include svg-icon.html icon="arrow-right" %}
@@ -17,7 +23,8 @@
         {% endif %}
       </p>
     </a>
-    <img class="imageFollow" src="{{ site.baseurl }}/images/{{ post.image }}" style="width:30%;">
+    <!-- <img class="imageFollow" src="{{ site.baseurl }}/images/{{ post.image }}" style="width:30%;"> -->
+
   </li>
   {% endfor %}
   {% if paginator.total_pages > 1 %}
