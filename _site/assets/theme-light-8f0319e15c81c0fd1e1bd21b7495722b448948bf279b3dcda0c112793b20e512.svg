@@ -1,0 +1,25 @@
+
+<!-- <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<symbol id="icon-theme" width="16px" height="16px" viewBox="0 0 16 16">
+<title>theme</title>
+<path d="M8 0c-4.418 0-8 3.582-8 8s3.582 8 8 8 8-3.582 8-8-3.582-8-8-8zM2 8c0-3.314 2.686-6 6-6v12c-3.314 0-6-2.686-6-6z"></path>
+</symbol>
+</svg> -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="icon-theme-light-svg" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <symbol id="icon-theme-light" width="48px" height="24px" viewBox="0 0 48 24">
+    <title>theme-light</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4" transform="translate(1.000000, 1.000000)" fill-rule="nonzero">
+            <rect id="Rectangle-3" fill="#BCBCBC" x="1" y="1" width="46" height="20" rx="10"></rect>
+            <circle id="Oval" stroke="#F8F8F8" stroke-width="1.248" fill="#333341" cx="11" cy="11" r="11"></circle>
+            <path d="M36.8666667,6 C37.6194179,6 38.3390568,6.1329103 39.0003391,6.37506449 C36.8150518,7.1746119 35.2666667,9.16778499 35.2666667,11.5 C35.2666667,13.832215 36.8150518,15.8253881 39.0006538,16.625299 C38.3390568,16.8670897 37.6194179,17 36.8666667,17 C33.6265961,17 31,14.5375661 31,11.5 C31,8.46243388 33.6265961,6 36.8666667,6 Z" id="Combined-Shape" fill="#70727B" transform="translate(35.000000, 11.500000) rotate(-30.000000) translate(-35.000000, -11.500000) "></path>
+            <circle id="Oval" fill="#F8F8F8" cx="11" cy="11" r="5"></circle>
+            <circle id="Oval-2" fill="#333341" cx="14.5" cy="7.5" r="2.5"></circle>
+            <circle id="Oval-3-Copy" fill="#70727B" cx="38" cy="8" r="1"></circle>
+            <circle id="Oval-3" fill="#70727B" cx="42" cy="10" r="1"></circle>
+        </g>
+    </g>
+  </symbol>
+</svg>
